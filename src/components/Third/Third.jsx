@@ -10,19 +10,19 @@ export const Third = () => {
     <div className="third-line-two"></div>
     <div className="third-line-three"></div>
     <div className="third-line-four"></div>
-    <p className="text-one">digital art director</p>
-    <p className="text-two">interactive designer</p>
-    <p className="text-three">creative developer</p>
-    <p className="text-four">based in <u>Sri - Lanka</u></p>
+    <p className="text-one">NGUỒN GỐC CỦA Ý THỨC</p>
+    <p className="text-two">BẢN CHẤT & KẾT CẤU</p>
+    <p className="text-three">VẬT CHẤT – Ý THỨC</p>
+    <p className="text-four">Ý NGHĨA <u>PHƯƠNG PHÁP LUẬN</u></p>
     <div className="block-a"><p className="block-a-let">a</p></div>
     <p className="text-ablaz">
-        s a multidisciplinary freelance, <br />
-        I'm passionate about creating <br />
-        iconic digital experiences <br />
+        một học phần trong Triết học Mác–Lênin, <br />
+        nội dung nghiên cứu tập trung vào <br />nguồn gốc, bản chất và kết cấu của ý thức, <br />
+        đồng thời phân tích mối quan hệ <br />biện chứng giữa vật chất và ý thức. <br /> 
     </p>
-    <p className="ablaz-two">through motion, typography and <br />
-        creative coding for companies and <br />
-        agencies around the world.</p>
+    <p className="ablaz-two"><br /><br />hiểu được vai trò quyết định của vật chất,<br />
+        cũng như tính năng động sáng tạo của ý thức <br />
+        trong thực tiễn cải tạo xã hội.</p>
   </div>
   );
 };

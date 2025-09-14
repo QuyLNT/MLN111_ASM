@@ -10,31 +10,28 @@ export const Nine = () => {
         <div className="nine-block">
             <img src={fill1} alt="img" className="nine-fill" />
         </div>
-        <p className='tagr-one'>sal parasuco</p>
+        <p className='tagr-one'>Nguồn gốc của ý thức</p>
         <div className="nine-block-two">
             <img src={fill2} alt="img" className="nine-fill" />
         </div>
-        <p className='tagr-two'>sal parasuco</p>
-        <div className="new-org-nine"></div>
-        <div className="new-nine">new</div>
+        <p className='tagr-two'>Vật chất – ý thức</p>
+
+        
         <div className="nine-des-think">
-                Thinkers is an experimental e-learning platform that offers <br />
-                a wide variety of creative masterclass by award-winning <br />
-                digital thinkers on the Awwwwards community.
+                Bản chất & kết cấu của ý thức: tri thức – tình cảm – ý chí – niềm tin/lý tưởng. <br />
+        Nội dung tóm tắt dưới dạng infographic, dễ ghi nhớ – dễ vận dụng.
         </div>
-        <div className="new-org-nine-two"></div>
-        <div className="new-nine-two">new</div>
+
         <div className="nine-des-think-two">
-                Thinkers is an experimental e-learning platform that offers <br />
-                a wide variety of creative masterclass by award-winning <br />
-                digital thinkers on the Awwwwards community.
+                Ý nghĩa phương pháp luận: xuất phát từ thực tế khách quan, <br />
+        phát huy tính năng động sáng tạo của ý thức, chống duy ý chí.
         </div>
         <div className="cap-work">all work!</div>
         <div className="credit">
-            Follow me Instagram <br />
-            @chaniru.lk
+            GR1 MLN111 <br />
+            
         </div>
-        <a href="https://www.instagram.com/chaniru.lk/" className="here">Click Here</a>
+        
   </div>
   );
 };

@@ -11,17 +11,15 @@ export const Last = () => {
                 <div class="img1">something</div> 
                 <div class="img1">togehter</div>
                 <div class="img1">
-                    <div className="last-blk">@chaniru.lk</div>
+                    
                 </div>
             </div>
         </div>
         <div className="last-line-two"></div>
-        <div className="names">&#169;chaniru.lk</div>
+        <div className="names"></div>
         <img src={lega} alt="legal" className="legal" />
         <div className="legal-text">Legal</div>
-        <a href="https://www.instagram.com/chaniru.lk/" className="last-link-one">Instagram</a>
-        <a href="https://www.instagram.com/chaniru.lk/" className="last-link-two">Twitter</a>
-        <a href="https://www.instagram.com/chaniru.lk/" className="last-link-three">Behance</a>
+        
   </div>
   );
 };
