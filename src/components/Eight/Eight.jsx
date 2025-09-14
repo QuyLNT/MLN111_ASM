@@ -15,9 +15,9 @@ export const Eight = () => {
 
       <div className="awwwards">AI usage</div>
 
-      <div className="com">
-        Công cụ: ChatGPT, Figma, Canva, Miro. <br />
-        Mục đích: phác thảo ý tưởng, dàn ý, visual. <br />
+      <div className="com"><br></br><br></br>
+        Công cụ: ChatGPT, Canva<br />
+        Mục đích: phác thảo ý tưởng, dàn ý, visual, code, gen image. <br />
         Kiểm chứng: Giáo trình Triết học Mác – Lênin (2021), tài liệu LLCT liên quan.
       </div>
 
@@ -29,27 +29,27 @@ export const Eight = () => {
         <input type="radio" name="slider" title="slide5" className="slider__nav"/>
 
         <div className="slider__inner">
-          <div className="slider__contents">
+          <div className="slider__contents"><br></br><br></br><br></br>
             <quote>&rdquo;</quote>
             <p className="slider__txt">AI hỗ trợ sáng tạo hình ảnh và sắp xếp nội dung; kết quả cuối cùng do nhóm biên tập.</p>
             <h2 className="slider__caption">Phụ lục: AI Usage</h2>
           </div>
-          <div className="slider__contents">
+          <div className="slider__contents"><br></br><br></br><br></br>
             <quote>&rdquo;</quote>
             <p className="slider__txt">Mọi định nghĩa, khái niệm đều đối chiếu với giáo trình và trích dẫn nguồn.</p>
             <h2 className="slider__caption">Kiểm chứng nguồn</h2>
           </div>
-          <div className="slider__contents">
+          <div className="slider__contents"><br></br><br></br><br></br>
             <quote>&rdquo;</quote>
             <p className="slider__txt">Không để AI làm thay hoàn toàn; có phân định rõ phần AI và phần biên soạn.</p>
             <h2 className="slider__caption">Cam kết liêm chính</h2>
           </div>
-          <div className="slider__contents">
+          <div className="slider__contents"><br></br><br></br><br></br>
             <quote>&rdquo;</quote>
             <p className="slider__txt">Ứng dụng thực tiễn: poster chuỗi, video ngắn, minigame hỏi–đáp.</p>
             <h2 className="slider__caption">Tính tương tác</h2>
           </div>
-          <div className="slider__contents">
+          <div className="slider__contents"><br></br><br></br><br></br>
             <quote>&rdquo;</quote>
             <p className="slider__txt">Liên hệ hiện nay: vai trò ý thức khoa học trong hoạch định chính sách.</p>
             <h2 className="slider__caption">Gắn với thực tiễn</h2>

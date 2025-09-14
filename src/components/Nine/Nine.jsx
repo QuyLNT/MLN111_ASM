@@ -28,8 +28,8 @@ export const Nine = () => {
         </div>
         <div className="cap-work">all work!</div>
         <div className="credit">
-            GR1 MLN111 <br />
-            
+            Group 1<br /> MLN111 <br /> Class: 	Half1_SE1715 <br />
+            GV: NganDT31
         </div>
         
   </div>

@@ -19,7 +19,7 @@ const Home = () => {
             </div>
             <p className='tagger-one'>NGUỒN GỐC CỦA Ý THỨC</p>
             <p className='tagger-des'>
-              Ý thức có nguồn gốc tự nhiên từ bộ não người và sự phản ánh thế giới khách quan, <br></br>
+              Ý thức có nguồn gốc tự nhiên từ bộ não người <br></br>và sự phản ánh thế giới khách quan, <br></br>
               đồng thời có nguồn gốc xã hội từ lao động và ngôn ngữ.
             </p>
             <div className='pic-block-two'>
@@ -35,7 +35,7 @@ const Home = () => {
             </div>
             <p className='tagger-three'>MỐI QUAN HỆ GIỮA VẬT CHẤT VÀ Ý THỨC</p>
             <p className='tagger-des-three'>
-              Vật chất có trước và quyết định ý thức. <br></br>
+              <br></br>Vật chất có trước và quyết định ý thức. <br></br>
               Tuy nhiên, thông qua thực tiễn, ý thức có thể tác động trở lại, định hướng hoạt động cải tạo tự nhiên và xã hội.
             </p>
           <div className='name-block'></div>
