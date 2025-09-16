@@ -48,7 +48,7 @@ const Home = () => {
       </p>
 
       <div className="name-block"></div>
-      <div className="name">consciousness</div>
+      <div className="name">nguồn gốc - BẢN CHẤT - Kết cấu</div>
     </div>
   );
 };

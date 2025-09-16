@@ -18,13 +18,13 @@ export const Nine = () => {
 
         
         <div className="nine-des-think">
-                Bản chất & kết cấu của ý thức: tri thức – tình cảm – ý chí – niềm tin/lý tưởng. <br />
-        Nội dung tóm tắt dưới dạng infographic, dễ ghi nhớ – dễ vận dụng.
+                Bản chất & kết cấu của ý thức: <br />tri thức – tình cảm – ý chí – niềm tin/lý tưởng
+        <br />Nội dung tóm tắt dưới dạng infographic,<br /> dễ ghi nhớ – dễ vận dụng.
         </div>
 
         <div className="nine-des-think-two">
-                Ý nghĩa phương pháp luận: xuất phát từ thực tế khách quan, <br />
-        phát huy tính năng động sáng tạo của ý thức, chống duy ý chí.
+                Ý nghĩa phương pháp luận: xuất phát từ thực tế <br />khách quan, 
+        phát huy tính năng động sáng<br /> tạo của ý thức, chống duy ý chí.
         </div>
         <div className="cap-work">all work!</div>
         <div className="credit">

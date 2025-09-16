@@ -19,7 +19,7 @@ const App = () => {
     <Fourth></Fourth>
     <Fifth></Fifth>
     <Six></Six>
-    <Seven></Seven>
+    {/* <Seven></Seven> */}
     <Eight></Eight>
     <Nine></Nine>
     <Last></Last>

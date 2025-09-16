@@ -38,15 +38,15 @@
 }
 @font-face {
   font-family: gramnarrow;
-  src: url(./components/fonts/ITC\ Garamond\ Book\ Narrow.woff2);
+  src: url(./components/fonts/playfair-display-sc-v17-latin-regular.woff2);
 }
 @font-face {
   font-family: gramlight;
-  src: url(./components/fonts/ITC\ Garamond\ Light\ Condensed.woff2);
+  src: url(./components/fonts/playfair-v9-latin-regular.woff2);
 }
 @font-face {
 font-family: scari;
-src: url(./components/fonts/SatisficeDemo-w1EGw.woff2);
+src: url(./components/fonts/aref-ruqaa-v26-latin-regular.woff2);
 }
 @font-face {
   font-family: albaz;

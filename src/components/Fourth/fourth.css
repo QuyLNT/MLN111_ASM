@@ -1,64 +1,74 @@
-.fourth{
-    height: 100vh; 
+.fourth {
+    height: 100vh;
 }
-.four-bloc{
+
+.four-bloc {
     position: absolute;
     background-color: #1c1b19;
-    height: 320px;
-    width: 960px;
+    height: 250px;
+    width: 1000px;
     left: 2%;
-    margin-top: 5%;
+    margin-top: 10%;
 }
-.web{
+
+.web {
     position: absolute;
     color: #c5bdb4;
-    text-transform: uppercase;
     font-family: scari;
-    font-size: 16em;
-    margin-top: 11%;
-    left: 5%;
-    font-stretch: extra-expanded;
-    transform: scale(1, 1.5);
-    -webkit-transform: scale(1, 1.5); /* Safari and Chrome */
-    -moz-transform: scale(1, 1.5); /* Firefox */
-    -ms-transform: scale(1, 1.5); /* IE 9+ */
-    -o-transform: scale(1, 1.5); /* Opera */
+    font-size: 7.8em;
+    margin-top: 11.4%;
+    left: 3%;
+    text-transform: uppercase;
 }
-.stamp{
+
+.stamp {
     height: auto;
     width: 280px;
     position: absolute;
     margin-top: 3.98%;
     right: 2%;
 }
-.four-line{
+
+.four-line {
     margin-top: 40%;
-    left:21%;
+    left: 21%;
     width: 23%;
     height: 47px;
     border-bottom: 1px solid #1c1b19;
     position: absolute;
     transform: rotate(90deg);
 }
-.latest{
+
+.latest {
     position: absolute;
-    font-size: 4.4em;
+    font-size: 4em;
     font-family: scari;
     color: #1c1b19;
-    margin-top: 30%;
+    margin-top: 28%;
     left: 2%;
     text-transform: uppercase;
     letter-spacing: -5px;
 }
-.des-lat{
+
+.des-lat {
     position: absolute;
     font-family: gramlight;
-    font-size: 3em;
+    font-size: 2.9em;
     color: #1c1b19;
     margin-top: 35%;
     left: 2%;
 }
-.tip{
+
+.des2-lat {
+    position: absolute;
+    font-family: gramlight;
+    font-size: 2.3em;
+    color: #1c1b19;
+    margin-top: 39%;
+    left: 2%;
+}
+
+.tip {
     position: absolute;
     color: #1c1b19;
     letter-spacing: -2px;
@@ -68,7 +78,8 @@
     font-family: scari;
     left: 2%;
 }
-.tp-des{
+
+.tp-des {
     position: absolute;
     font-family: gramlight;
     color: #1c1b19;
@@ -76,7 +87,8 @@
     margin-top: 50%;
     left: 6.5%;
 }
-.four-line-two{
+
+.four-line-two {
     margin-top: 61%;
     left: 36%;
     width: 65%;
@@ -85,30 +97,34 @@
     position: absolute;
     transform: rotate(90deg);
 }
-.yell-blocl{
+
+.yell-blocl {
     position: absolute;
-    height: 155px;
-    width: 400px;
-    margin-top:30%;
-    left: 35%;
+    height: 175px;
+    width: 900px;
+    margin-top: 42%;
+    left: 19.5%;
 }
-.yell-fill{
+
+.yell-fill {
     position: absolute;
     object-fit: contain;
     height: 100%;
     width: 100%;
 }
-.think{
+
+.think {
     position: absolute;
-    color: #1c1b19;
-    font-size: 3em;
-    margin-top: 43%;
-    left: 35%;
-    text-transform: uppercase;
+    font-size: 4em;
     font-family: scari;
-    letter-spacing: -3px;
+    color: #1c1b19;
+    margin-top: 28%;
+    left: 32%;
+    text-transform: uppercase;
+    letter-spacing: -5px;
 }
-.new-org{
+
+.new-org {
     position: absolute;
     height: 38px;
     width: 60px;
@@ -117,7 +133,8 @@
     left: 47%;
     border-radius: 10px;
 }
-.new{
+
+.new {
     position: absolute;
     color: #c5bdb4;
     font-size: 2em;
@@ -127,55 +144,57 @@
     margin-top: 43.5%;
     left: 47.6%;
 }
-.new-des-think{
+
+.new-des-think {
     position: absolute;
-    font-size: 1.3em;
+    font-size: 2.5em;
     color: #1c1b19;
     font-family: gramlight;
-    margin-top: 46.3%;
-    left: 35.5%;
+    margin-top: 35%;
+    left: 32%;
 }
-.four-lin{
-    margin-top: 34%;
+
+.four-lin {
+    margin-top: 7%;
     right: 2%;
     width: 28%;
     height: 47px;
     border-bottom: 1px solid #1c1b19;
     position: absolute;
 }
-.text-head-one{
+
+.text-head-one {
     position: absolute;
     color: #1c1b19;
     letter-spacing: -5px;
     font-family: scari;
-    font-size: 5.3em;
-    margin-top: 34%;
+    font-size: 5em;
+    margin-top: 10%;
     right: 2%;
     text-transform: uppercase;
 }
-.four-lin-del{
-    margin-top: 46%;
+
+.four-lin-del {
+    margin-top: 34%;
     right: 2%;
     width: 28%;
     height: 47px;
     border-bottom: 1px solid #1c1b19;
     position: absolute;
 }
-.delivery{
+
+.delivery {
     color: #1c1b19;
     position: absolute;
     font-family: scari;
-    font-size: 8.5em;
-    margin-top: 42%;
-    right: 1%;
+    font-size: 7em;
+    margin-top: 16%;
+    right: 6.5%;
     text-transform: uppercase;
-    transform: scale(1, 1.5);
-    -webkit-transform: scale(1, 1.5); /* Safari and Chrome */
-    -moz-transform: scale(1, 1.5); /* Firefox */
-    -ms-transform: scale(1, 1.5); /* IE 9+ */
-    -o-transform: scale(1, 1.5); /* Opera */
+    line-height: 1.4em;
 }
-.block-a-four{
+
+.block-a-four {
     position: absolute;
     height: 98px;
     width: 62px;
@@ -183,7 +202,8 @@
     right: 26%;
     margin-top: 53%;
 }
-.block-a-let-four{
+
+.block-a-let-four {
     position: relative;
     text-transform: uppercase;
     color: #c5bdb4;
@@ -192,19 +212,21 @@
     margin-top: 1%;
     left: 5%;
 }
-.go-des{
+
+.go-des {
     position: absolute;
     font-size: 2em;
     color: #1c1b19;
     font-family: gramlight;
-    margin-top: 52.5%;
-    right: 4%;
+    margin-top: 38%;
+    right: 2%;
 }
-.go-des-two{
+
+.go-des-two {
     position: absolute;
     font-size: 2em;
     color: #1c1b19;
     font-family: gramlight;
-    margin-top: 60.5%;
-    right: 5.5%;
+    margin-top: 55%;
+    right: 4%;
 }

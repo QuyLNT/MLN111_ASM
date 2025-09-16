@@ -4,18 +4,12 @@ import "./eight.css";
 export const Eight = () => {
   return (
     <div className="eight">
-      <div className="eight-bloc"></div>
-      <p className="art">Graphic</p>
 
       <div className="art-des">
         Chúng tôi sử dụng công cụ AI để hỗ trợ code và biên soạn nội dung,{" "}
-        <br />
-        nhưng mọi thông tin đều được kiểm chứng bằng giáo trình LLCT và <br />
-        văn bản chính thống. Phần biên soạn cuối cùng do sinh viên chịu trách
+        <br />nhưng mọi thông tin đều được kiểm chứng<br /> bằng giáo trình LLCT và
         nhiệm.
       </div>
-
-      <div className="awwwards">AI usage</div>
 
       <div className="com">
         <br></br>
@@ -23,7 +17,7 @@ export const Eight = () => {
         Công cụ: ChatGPT, Canva
         <br />
         Mục đích: phác thảo ý tưởng, dàn ý, visual, code, gen image. <br />
-        Kiểm chứng: Giáo trình Triết học Mác – Lênin (2021), tài liệu LLCT liên
+        Kiểm chứng: Giáo trình Triết học Mác – Lênin (2021), <br /> tài liệu LLCT liên
         quan.
       </div>
 
@@ -104,8 +98,7 @@ export const Eight = () => {
             <br />
             <quote>&rdquo;</quote>
             <p className="slider__txt">
-              “Mọi triết học đều chỉ là sự diễn giải thế giới; vấn đề là phải
-              cải tạo nó.”
+              “Mọi triết học đều chỉ là sự diễn giải thế giới; vấn đề là phải cải tạo nó.”
             </p>
             <h2 className="slider__caption">Karl Marx</h2>
           </div>
