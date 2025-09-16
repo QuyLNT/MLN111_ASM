@@ -7,7 +7,9 @@ export const Eight = () => {
 
       <div className="art-des">
         Chúng tôi sử dụng công cụ AI để hỗ trợ code và biên soạn nội dung,{" "}
-        <br />nhưng mọi thông tin đều được kiểm chứng<br /> bằng giáo trình LLCT và
+        <br />
+        nhưng mọi thông tin đều được kiểm chứng bằng  <br />giáo trình LLCT và
+        văn bản chính thống.<br /> Phần biên soạn cuối cùng do sinh viên chịu trách
         nhiệm.
       </div>
 
@@ -17,8 +19,7 @@ export const Eight = () => {
         Công cụ: ChatGPT, Canva
         <br />
         Mục đích: phác thảo ý tưởng, dàn ý, visual, code, gen image. <br />
-        Kiểm chứng: Giáo trình Triết học Mác – Lênin (2021), <br /> tài liệu LLCT liên
-        quan.
+        Kiểm chứng: Giáo trình Triết học Mác – Lênin.
       </div>
 
       <div className="testimonials-section">

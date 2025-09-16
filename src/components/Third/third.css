@@ -10,9 +10,10 @@
 }
 .boc-fill{
     position: absolute;
-    object-fit: cover;
+    object-fit: fill;
     height: 100%;
-    width: 100%;
+    width: 550px  ;
+
 }
 .third-line{
     margin-top: 10%;

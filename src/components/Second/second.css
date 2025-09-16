@@ -54,12 +54,12 @@
     position: absolute;
     margin-top: 15%;
     right: 2%;
-    height: 510px;
-    width: 750px;
+    height: 650px;
+    width: 800px;
 }
 .face{
     position: absolute;
     height: 100%;
     width: 100%;
-    object-fit: contain;
+    object-fit: cover;
 }
